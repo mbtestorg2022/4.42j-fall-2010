@@ -25,32 +25,345 @@ Readings by Session
 
 All chapters in the following table are from the Levenspiel textbook. The notes for Lec #11-22 are not available on MIT OpenCourseWare, except for Lec #15 and 16.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction, energy | Chapter 1, 2A, and 10 |
-| 2 | Energy, work | Chapter 3A and 4A |
-| 3 | Conservation of energy, heat | Chapter 3B and 4B |
-| 4 | Energy conservation | Chapter 5A, 6A, and 7 |
-| 5 | Water liquid and vapor | Chapter 8 and 12B |
-| 6 | Water, refrigerants, gases | Chapter 12B-D, 2C, and 11 |
-| 7 | Steady state flow | Chapter 13 |
-| 8 | Heating and cooling systems | &nbsp; |
-| 9 | Natural ventilation | &nbsp; |
-| 10 | Transients, moist air mixtures | Chapter 14 and 2A |
-| 11 | Psychrometrics | Notes |
-| 12 | Quiz review | Notes |
-| 13 | Quiz 1 | &nbsp; |
-| 14 | Applications | Notes |
-| 15 | Heat transfer introduction | Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_heat)) |
-| 16 | Conductive heat transfer, moisture transfer in walls | Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_water_vapor)) |
-| 17 | Composite walls | Notes |
-| 18 | Convection | &nbsp; |
-| 19 | Introduction to design project 2: radiation | &nbsp; |
-| 20 | Human comfort | Notes |
-| 21 | Quiz 2 | &nbsp; |
-| 22 | Solar radiation, windows | Notes |
-| 23 | Introduction to the second law | Chapter 15 |
-| 24 | Entropy, cogeneration systems | Chapter 18A, C-E, and 20A-C |
-| 25 | Heat pumps, refrigeration cycles | Chapter 16, 17A, and 20D |
-| 26 | Tour: Building 68, [Koch Biology Building](http://whereis.mit.edu/?go=68); and Building N51, [MIT Museum](http://web.mit.edu/museum/) and the [Digital Design Fabrication Group](http://ddf.mit.edu/) | Chapter 16, 17A, and 20D |
-| 27 | Review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, energy
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1, 2A, and 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Energy, work
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3A and 4A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation of energy, heat
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3B and 4B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conservation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5A, 6A, and 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Water liquid and vapor
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8 and 12B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Water, refrigerants, gases
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12B-D, 2C, and 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Steady state flow
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Heating and cooling systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Natural ventilation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Transients, moist air mixtures
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14 and 2A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Psychrometrics
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz review
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Applications
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Heat transfer introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_heat))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Conductive heat transfer, moisture transfer in walls
+{{< tdclose >}}
+{{< tdopen >}}
+Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_water_vapor))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Composite walls
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Convection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to design project 2: radiation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Human comfort
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Solar radiation, windows
+{{< tdclose >}}
+{{< tdopen >}}
+Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the second law
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy, cogeneration systems
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 18A, C-E, and 20A-C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Heat pumps, refrigeration cycles
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16, 17A, and 20D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: Building 68, [Koch Biology Building](http://whereis.mit.edu/?go=68); and Building N51, [MIT Museum](http://web.mit.edu/museum/) and the [Digital Design Fabrication Group](http://ddf.mit.edu/)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16, 17A, and 20D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
